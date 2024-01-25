@@ -158,7 +158,7 @@ section.apresentacao .blush.dois {
 @media screen and (max-width: 1000px) {
     section.apresentacao {
         flex-direction: column;
-        padding: 100px 30px 60px 80px;
+        padding: 100px 30px 60px 30px;
     }
     
     section.apresentacao .imagem {
